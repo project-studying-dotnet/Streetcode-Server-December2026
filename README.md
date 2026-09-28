@@ -1,6 +1,14 @@
+<a href="https://softserve.academy/">
+  <div align="center">
+    <img src="https://github.com/project-studying-dotnet/Streetcode-Server-September/blob/main/StreetCodeLogo.jpg" 
+        title="SoftServe IT Academy" 
+        alt="SoftServe IT Academy">
+  </div>
+</a>
+
 # Streetcode
 This is a Back-end part of our Streetcode project.
-Front-end part: https://github.com/project-studying-dotnet/Streetcode-Client-October2026
+Front-end part: https://github.com/project-studying-dotnet/Streetcode-Client-December2026
 >### **Vision**
 >The largest platform about the history of Ukraine, built in the space of cities.
 

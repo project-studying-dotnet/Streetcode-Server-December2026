@@ -1,5 +1,3 @@
-<a href="https://softserve.academy/"><div align="center"><title = "SoftServe IT Academy" alt="SoftServe IT Academy"></div></a>
-
 # Streetcode
 This is a Back-end part of our Streetcode project.
 Front-end part: https://github.com/project-studying-dotnet/Streetcode-Client-October2026
